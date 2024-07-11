@@ -1,7 +1,6 @@
 -- _______________________________TASK # 1
 create database WeddingDress0371;
 use WeddingDress0371;
-
 -- _______________________________TASK # 2
 create table Customer0371(
 CustomerId int primary key,
