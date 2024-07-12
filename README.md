@@ -1,2 +1,2 @@
 # SQL-
-These are SQL Questions.
+These are SQL Questions..
